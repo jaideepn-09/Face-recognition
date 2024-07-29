@@ -1,4 +1,5 @@
-Live Face Detection and Authentication
+#Live Face Detection and Authentication
+
 This project provides a real-time face detection and authentication system using OpenCV and pre-trained ONNX models. The application captures video from a camera, detects faces, and compares them to a reference image to verify identity. Once authentication is confirmed, the system automatically exits and displays a confirmation message.
 
 Features
